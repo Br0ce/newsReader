@@ -1,0 +1,12 @@
+docker-compose.yml
+docker-compose-support.yml
+
+Dockerfile.archiver
+Dockerfile.collector
+Dockerfile.preprocessor
+
+Makefile
+README.md
+.gitignore
+bin
+conf
